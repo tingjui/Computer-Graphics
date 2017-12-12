@@ -31,12 +31,19 @@ Mosaic Image based on the all reference image dataset:
 <img src="https://user-images.githubusercontent.com/31942866/33896300-18c460f4-df28-11e7-9c3e-29b66974eafa.jpeg" width="300">
 
 Time Cost:
+
 K=10: 4 secs
+
 K=30: 6 secs
+
 K=50: 9 secs
+
 K=70: 10 secs
+
 K=90: 14 secs
+
 All pics: 90 secs
+
 
 Original Image:
 
@@ -67,9 +74,15 @@ Mosaic Image based on the all reference image dataset:
 <img src="https://user-images.githubusercontent.com/31942866/33896694-1e7b3120-df29-11e7-894e-42d46b7a5d18.jpeg" width="300">
 
 Time Cost:
-K=10: 2 secs
-K=30: 3 secs
-K=50: 5 secs
-K=70: 6 secs
-K=90: 7 secs
-All pics: 43 secs
+
+K=10: 4 secs
+
+K=30: 6 secs
+
+K=50: 9 secs
+
+K=70: 10 secs
+
+K=90: 14 secs
+
+All pics: 90 secs
