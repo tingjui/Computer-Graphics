@@ -2,6 +2,8 @@
 This repository is especially for the computer graphics course 641
 
 ## To Run The Main Program
+Go to the directory where the main program "build_mosaic.py" is located, and type the instruction below in the command window:
+
 python build_mosaic.py <target_image_file_name> <tiles absolute directory>
 
 ## Results Demo
