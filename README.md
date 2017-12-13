@@ -1,6 +1,9 @@
 # Computer-Graphics
 This repository is especially for the computer graphics course 641
 
+## To Run The Main Program
+python build_mosaic.py <target_image_file_name> <tiles absolute directory>
+
 ## Results Demo
 Original Image:
 
